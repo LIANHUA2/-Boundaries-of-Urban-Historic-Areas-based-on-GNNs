@@ -10,5 +10,10 @@ After running successfully in sequence, you can get the location distribution of
 If you want to visually observe the calculation results, you need to manually mark these prompt nodes on the map, or you can directly download the results marked by me in the file. The official planning of Kaifeng City is also included in the document.
 
 
-
 April 2(nd), 2024 
+
+#
+“[副]豪斯多夫距离相似率标准代码模块”是检测GNN计算出的历史城区界线与现实中政府公布的历史城区界线相似城区的模块。请将文件“潮州计算结果.png”与“潮州真实.png”分别链接到第三个代码块“#加载图像”中的image1与image2中，然后按顺序运行，就可以计算出GNN对广东潮州的历史城区界线计算结果与潮州官方公布的历史城区界线的“豪斯多夫距离相似率”。
+豪斯多夫距离相似率（HAUSDORFF DISTANCE-SIMILARITY RATIO）是一种衡量两个点集空间分布相似程度的方法。
+
+2024年4月14日
