@@ -31,3 +31,8 @@ April 14(nd), 2024
 豪斯多夫距离相似率（HAUSDORFF DISTANCE-SIMILARITY RATIO）是一种衡量两个点集空间分布相似程度的方法。
 
 2024年4月14日
+
+#
+新增了中国云南昆明的数据CSV文件。（Added the CSV data of Kunming, Yunnan, China.）
+
+2024年8月3日（08.03.2024）
