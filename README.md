@@ -39,8 +39,11 @@ April 14(nd), 2024
 
 #
 补充了中国广东潮州的数据CSV文件。（Added the CSV data of Chaozhou, Guangdong, China.）
-我们已经计算了7个城市的历史城区界线，将会陆续公开它们的结果与官方结果的比较，新版的更好的代码也在重置中。（We have calculated the Urban historic areas boundaries of seven cities, and will publish the comparison of their results with the official results one after another, and the new and better codes are also being reset.）
+我们已经计算了7个城市的历史城区界线，将会陆续公开它们的结果与官方结果的比较，新版的更好的代码也在重置中。
+（We have calculated the Urban historic areas boundaries of seven cities, and will publish the comparison of their results with the official results one after another, and the new and better codes are also being reset.）
+
 论文已经发表。(The paper has been published.)
+
 Zhisheng Huang, Nan Wu, Chenlei Liu and Shaosen Wang.Research on the Rapid Method for Delineating the Boundaries of Urban Historic Areas based on Graph Theory and Graph Neural Networks[J].Computer-Aided Design and Applications, 22(2), 2025,306-321;.Huaqiao University.DOI:10.14733/cadaps.2025.306-321
 
 2024年10月31日（10.31.2024）
