@@ -6,7 +6,7 @@ The specific article is expected to be published in 2024 CAD confrence. (Not yet
 
 2024.3.26
 #
-论文已经发表。(The paper has been published.)
+论文已经发表，如果对你有用请引用。(The paper has been published.If it is useful to you, please quote the following references.)
 
 Zhisheng Huang, Nan Wu, Chenlei Liu and Shaosen Wang.Research on the Rapid Method for Delineating the Boundaries of Urban Historic Areas based on Graph Theory and Graph Neural Networks[J].Computer-Aided Design and Applications, 22(2), 2025,306-321;.Huaqiao University.DOI:10.14733/cadaps.2025.306-321
 
