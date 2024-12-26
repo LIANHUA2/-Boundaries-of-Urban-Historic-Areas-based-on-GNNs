@@ -3,6 +3,8 @@
 #
 #The establishment of this project is mainly to try to find the historical area of the city quickly by using neural network. The author hopes that this method is simpler and more effective than the previous manual method.
 The specific article is expected to be published in 2024 CAD confrence. (Not yet finalized)
+
+2024.3.26
 #
 论文已经发表。(The paper has been published.)
 
