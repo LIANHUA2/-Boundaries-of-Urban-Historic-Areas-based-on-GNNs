@@ -28,13 +28,13 @@ April 2(nd), 2024
 2024年4月2日
 
 #
-"[副]豪斯多夫距离相似率标准代码模块" is a module for detecting the similarity between the Urban Historic Area boundary computed by the GNN and the actual Urban Historic Area boundary published by the government. Please link the files "潮州计算结果.png" and "潮州真实.png" to image1 and image2 respectively in the third code block "#加载图像", and then run the code blocks in order to calculate the "Hausdorff distance similarity ratio" between the GNN's computed Urban Historic Area boundary for Chaozhou, Guangdong, and the official Urban Historic Area boundary published for Chaozhou.You can find the result in "print(Hsduofu_accuracy)" in the last small code block of "执行豪斯多夫距离相似率" large code block. The first output value is the Hausdorff distance similarity between point set A and point set B.
+"[副]豪斯多夫距离相似率标准代码模块" is a module for detecting the similarity between the Urban Historic Area boundary computed by the GNN and the actual Urban Historic Area boundary published by the government. Please link the files "潮州历史城区_黑白计算.jpg" and "潮州历史城区_黑白真实.jpg" to image1 and image2 respectively in the third code block "#加载图像", and then run the code blocks in order to calculate the "Hausdorff distance similarity ratio" between the GNN's computed Urban Historic Area boundary for Chaozhou, Guangdong, and the official Urban Historic Area boundary published for Chaozhou.You can find the result in "print(Hsduofu_accuracy)" in the last small code block of "执行豪斯多夫距离相似率" large code block. The first output value is the Hausdorff distance similarity between point set A and point set B.
 
 The Hausdorff distance similarity ratio is a method for measuring the similarity of spatial distributions between two sets of points.
 
 April 14(nd), 2024
 
-“[副]豪斯多夫距离相似率标准代码模块”是检测GNN计算出的历史城区界线与现实中政府公布的历史城区界线相似城区的模块。请将文件“潮州计算结果.png”与“潮州真实.png”分别链接到第三个代码块“#加载图像”中的image1与image2中，然后按顺序运行，就可以计算出GNN对广东潮州的历史城区界线计算结果与潮州官方公布的历史城区界线的“豪斯多夫距离相似率”。你可以在“执行豪斯多夫相似率”代码块中最后一个小代码块中的“print(Hsduofu_accuracy)”找到结果，第一个输出的值就是点集A与点集B的豪斯多夫距离相似率。
+“[副]豪斯多夫距离相似率标准代码模块”是检测GNN计算出的历史城区界线与现实中政府公布的历史城区界线相似城区的模块。请将文件“潮州历史城区_黑白计算.jpg”与“潮州历史城区_黑白真实.jpg”分别链接到第三个代码块“#加载图像”中的image1与image2中，然后按顺序运行，就可以计算出GNN对广东潮州的历史城区界线计算结果与潮州官方公布的历史城区界线的“豪斯多夫距离相似率”。你可以在“执行豪斯多夫相似率”代码块中最后一个小代码块中的“print(Hsduofu_accuracy)”找到结果，第一个输出的值就是点集A与点集B的豪斯多夫距离相似率。
 
 豪斯多夫距离相似率（HAUSDORFF DISTANCE-SIMILARITY RATIO）是一种衡量两个点集空间分布相似程度的方法。
 
